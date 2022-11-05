@@ -1,0 +1,51 @@
+fresh th {
+    background: orange;
+    /* background: linear-gradient(darkgray, white); */
+    text-align: center;
+   
+    border: 1px solid black;
+    /* height: 400 px; */
+    
+}
+fresh td {
+    border: 1px solid rgb(85, 61, 61);
+    /* border-bottom: 0; */
+  
+    /*border-right: 0;*/
+    height: 20px;
+    text-align: center;
+}
+
+ div td {
+    border: 2px solid coral;
+    padding: 6px;
+    text-align: center;
+    color: darkslategrey;
+    
+}
+div th{
+    border: 2px solid coral;
+    padding: 6px;
+    text-align: center;
+    color: black;
+}
+table {
+    display: inline;
+    border-collapse: collapse;
+    
+}
+input {
+    text-align: center;
+    background-color: aliceblue;
+    /* border: 4px ; */
+    font-weight: bold;
+    border-radius: 5px;
+    border-color: darkgray;
+}
+#curtain {
+  background-color: white;
+}
+
+body {
+    font-family: "Sofia", sans-serif;
+  }
